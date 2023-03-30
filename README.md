@@ -1,5 +1,10 @@
 # standard
 
+## ファイルシステム
+
+### XDG Base Directory
+* [XDG Base Directory](https://wiki.archlinux.jp/index.php/XDG_Base_Directory)
+
 ## Git
 
 ### コミットメッセージ
