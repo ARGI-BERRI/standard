@@ -13,6 +13,12 @@
 ### アカウントの使い分け
 * [複数のGitHubアカウントを使い分けたい時の設定方法とTips](https://zenn.dev/taichifukumoto/articles/how-to-use-multiple-github-accounts)
 
+## Vim/NVim
+
+### プラグイン
+
+* [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+
 ### 学習
 
 * [Project Euler](https://projecteuler.net/)
