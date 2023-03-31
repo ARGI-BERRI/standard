@@ -19,7 +19,7 @@
 
 * [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 
-### 学習
+## 学習
 
 * [Project Euler](https://projecteuler.net/)
 * [アルゴ式](https://algo-method.com/)
