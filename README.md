@@ -8,6 +8,7 @@
 ## Git
 
 ### コミットメッセージ
+* **[Conventional Commits](https://www.conventionalcommits.org/ja/v1.0.0/)**
 * [Gitのコミットメッセージの書き方（2023年ver.）](https://zenn.dev/itosho/articles/git-commit-message-2023)
 
 ### アカウントの使い分け
